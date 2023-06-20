@@ -17,7 +17,7 @@ public class My_Customer_Page {
 	
 	public void clickonnewcust()
 	{
-		innewcust.click();
+		innewcust.click();  //
 		
 	}
 }
